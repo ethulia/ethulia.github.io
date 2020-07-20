@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-I'm Ming. I live in San Francisco and am interested in software and Internet culture. I was most recently Head of Product at [Lattice](https://www.lattice.com), and before that worked in engineering & product at [Intercom](https://www.intercom.com).
+I'm Ming. I live in San Francisco and am interested in software and Internet culture. I was most recently Head of Product at [Lattice](https://www.lattice.com), and before that worked in [engineering](https://www.youtube.com/watch?v=iiHlVVLOW2w) & product at [Intercom](https://www.intercom.com).
 
 **Side Projects:**
 - This website!  

@@ -27,7 +27,7 @@ There are usually many people who want to transition between roles at a company,
 
 For better or for worse, I think there are a lot of qualities about product management that make it very attractive to smart, motivated, but ultimately confused people.
 
-I’m not suggesting you need to have had a long burning passion for products to be a product manager (though I’m sure it’d help) but you should know realistically what the role entails. For as enticing as being the “CEO of the product” is, there are just as many people out there saying “it’s not as glamorous as you think it will be.” And trust me, all that becomes very apparent as you’re setting up your company’s JIRA instance or when you have to be the one always saying “no”.
+I’m not suggesting you need to have had a long burning passion for products to be a product manager (though I’m sure it’d help) but you should know realistically what the role entails. For as enticing as being the “[CEO of the product](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)” is, there are just as many people out there saying “it’s not as glamorous as you think it will be.” And trust me, all that becomes very apparent as you’re setting up your company’s JIRA instance or when you have to be the one always [saying “no”](https://www.intercom.com/blog/product-strategy-means-saying-no/).
 This is a case where spending time in roles that are adjacent to product management is very helpful. It’ll expose you to product managers so you can see if their day-to-day life is something that you’ll actually like doing.
 
 **Move toward roles that are closer to the product**
@@ -42,12 +42,12 @@ There’s an oft quoted saying of how responsibility is taken, not given. Once y
 
 Tell your manager or other leaders at the company that you’re interested in working in product. Your manager isn’t a mind reader, so you have to let her know what you want. And you’re much more likely to get what you want if you’re doing that job anyways.
 
-Outside of work, read — yes, read the establishment startup and product canon but really just read anything. Twitter can be huge time suck, but I find that if you follow the right people, there’s no better source that surfaces already curated reading material.
+Outside of work, read — yes, read the [establishment](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) [startup](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) and [product](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408) [canon](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123) but really just read anything. Twitter can be huge time suck, but I find that if you follow the right people, there’s no better source that surfaces already curated reading material.
 
 Try out new products and be an early adopter whenever you can. Think about why you like certain product experiences and what makes other user flows confusing. I like to describe a PM’s job as making a very large amount of small decisions every day, and you need to develop opinions and taste to make those decisions.
 
 **An addendum: Be really lucky**
 
-I’ve worked hard over the last 3 years, but I’m very, very aware that a large portion of it was due to luck: lucky to be in a position where I could take risks in my career, lucky to have found great companies with people I could learn from, lucky to have encountered leaders and managers who were willing to take a chance on me.
+I’ve worked hard over the last 3 years, but I’m very, very aware that a large portion of it was due to [luck](https://www.princeton.edu/news/2012/06/03/princeton-universitys-2012-baccalaureate-remarks): lucky to be in a position where I could take risks in my career, lucky to have found great companies with people I could learn from, lucky to have encountered leaders and managers who were willing to take a chance on me.
 
 There’s no such thing as the perfect role for anyone, and to be honest I still have no idea what I want to do with my life. But comparing the way I felt about my job while working in finance with how I feel now as a PM, the difference is night and day. The most important thing that I’ve learned from this journey is what it feels like to enjoy what you do for a living. Because once you know what that feels like, you never want to lose that feeling again and that is what will drive you towards the right things.
